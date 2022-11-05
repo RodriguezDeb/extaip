@@ -1,0 +1,20 @@
+<resources>
+    <string name="usuario_label">Usuario</string>
+    <string name="app_name">AnaSplash</string>
+    <string name="contra_label">Contraseña</string>
+    <string name="oklabel">Listo</string>
+    <string name="olvidolabel">Olvide Contraseña</string>
+    <string name="registrolabel">Registro</string>
+    <string name="inicioS">INICIAR SESION</string>
+    <string name="registro">REGISTRARSE</string>
+    <string name="password">Contraseña:</string>
+    <string name="plisto">Listo</string>
+    <string name="foro">Foro</string>
+    <string name="contactanos">Contactanos</string>
+    <string name="call">Llamanos al</string>
+    <string name="num">021-555-5555</string>
+    <string name="correo">Correo electronico:</string>
+    <string name="usuario">Usuario:</string>
+    <string name="numero">Numero telefonico:</string>
+    <string name="edad">Edad:</string>
+</resources>
